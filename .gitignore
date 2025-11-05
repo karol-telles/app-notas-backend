@@ -1,0 +1,29 @@
+# Dependencias
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+
+# Archivos temporales o de cache
+.DS_Store
+*.tmp
+*.bak
+
+# Archivos de build (si algún día haces un build con Babel o TypeScript)
+dist/
+build/
+
+# Archivos del sistema / IDE
+.vscode/
+.idea/
+*.swp
+
+# Archivos generados por el SO
+Thumbs.db
